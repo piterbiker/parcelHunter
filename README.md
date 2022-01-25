@@ -17,3 +17,5 @@ Technologie:
 * Oracle Spatial (wymagany Oracle Express: Locator)
 * Python
 * biblioteki Python: cxOracle, SRTM.py
+
+Plik główny projektu: koordConverter.py
